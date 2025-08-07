@@ -1,0 +1,6 @@
+$git status
+$touch file1 file2 file3
+
+[A$ git add file1 file2 file3
+$ git add file1 rakesh
+$cd ..
